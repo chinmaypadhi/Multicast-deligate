@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Multi cast deligate\Multi cast deligate\bin\Debug\Multi cast deligate.exe.config
+C:\Users\Asus\source\repos\Multi cast deligate\Multi cast deligate\bin\Debug\Multi cast deligate.exe
+C:\Users\Asus\source\repos\Multi cast deligate\Multi cast deligate\bin\Debug\Multi cast deligate.pdb
+C:\Users\Asus\source\repos\Multi cast deligate\Multi cast deligate\obj\Debug\Multi cast deligate.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Multi cast deligate\Multi cast deligate\obj\Debug\Multi cast deligate.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Multi cast deligate\Multi cast deligate\obj\Debug\Multi cast deligate.exe
+C:\Users\Asus\source\repos\Multi cast deligate\Multi cast deligate\obj\Debug\Multi cast deligate.pdb
